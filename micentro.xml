@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<datoscentro>
+    <centro>
+        <codigocentro>AE345TYC</codigocentro>
+        <nombrecentro>Juan Ramon Jimenez</nombrecentro>
+        <direccion>Avenida Los rozales numero: 13, Malaga</direccion>
+        <director>
+            <codigoprofesor>E885TX</codigoprofesor>
+            <nombreprofesor>Antonio Martin</nombreprofesor>
+        </director>
+    </centro>
+    <profesores>
+        <profesor>
+            <codigoprofesor>E005TX</codigoprofesor>
+            <nombreprofesor>Julian Lopez</nombreprofesor>
+        </profesor>
+        <profesor>
+            <codigoprofesor>E235TX</codigoprofesor>
+            <nombreprofesor>Lucia Jimenez</nombreprofesor>
+        </profesor>
+        <profesor>
+            <codigoprofesor>E885TX</codigoprofesor>
+            <nombreprofesor>Antonio Martin</nombreprofesor>
+        </profesor>
+    </profesores>
+</datoscentro>
